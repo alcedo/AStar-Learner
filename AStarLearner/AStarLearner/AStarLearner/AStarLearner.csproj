@@ -127,6 +127,7 @@
     <Compile Include="GameMath.cs" />
     <Compile Include="GameObject.cs" />
     <Compile Include="GameParticleSystem.cs" />
+    <Compile Include="GameScoringSystem.cs" />
     <Compile Include="GameSound.cs" />
     <Compile Include="GameSprite.cs" />
     <Compile Include="GameTimer.cs" />
