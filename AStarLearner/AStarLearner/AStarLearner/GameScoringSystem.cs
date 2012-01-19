@@ -5,7 +5,9 @@ using System.Text;
 
 namespace AStarLearner
 {
-    class GameScoring
+    class GameScoringSystem
     {
+
+
     }
 }
