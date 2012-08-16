@@ -1,9 +1,0 @@
-1. Port kinect loaders into the project. 
-2. Implement Hand Tracer code. 
-
-
-
-Good to have:
-1. GUI FrameWorks
-2. Particle systems.
-3. Physics engine.

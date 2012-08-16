@@ -1,5 +1,0 @@
-http://farseerphysics.codeplex.com/
-http://xnahelpers.codeplex.com
-http://msdn.microsoft.com/en-us/library/ff634505.aspx
-http://msdn.microsoft.com/en-us/library/bb200104.aspx
-http://ixnae.codeplex.com/documentation
